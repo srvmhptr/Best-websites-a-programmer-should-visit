@@ -230,6 +230,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## 🛠️ General Tools
+- [BeginThings](https://beginthings.com) : 96+ free browser-based tools for developers & freelancers — JSON formatter, regex tester, base64, image compressor, QR code, URL shortener, invoice generator & more. No signup.
 - [CoderPad](https://coderpad.io) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [CORS-Tester](https://cors-error.dev/cors-tester/) : A tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps
